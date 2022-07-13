@@ -1,6 +1,8 @@
 {
-  "name": "react_frontend",
-  "version": "0.1.0",
+  "name": "mandeep_portfolio",
+  "homepage": "http://mandeepchahal.com",
+  "version": "1.0.0",
+  "description": "my portfolio",
   "private": true,
   "dependencies": {
     "@sanity/client": "^3.3.2",
