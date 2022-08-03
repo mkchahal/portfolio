@@ -47,7 +47,6 @@ const Skills = () => {
           ))}
         </motion.div>
         <div className="app__skills-tech">
-          {console.log(technologies)}
           {technologies.map((technology) => (
             <motion.div
               className="app__skills-tech-item"
