@@ -9,5 +9,4 @@ This repo is for my personal website [mandeepchahal.com](https://mandeepchahal.c
 <a href="https://www.sanity.io/" title="Sanity"><img src="https://github.com/get-icon/geticon/raw/master/icons/sanity.svg" alt="Sanity" height="50px"></a>
 
 ## Demo
-
-
+![portfolio](https://user-images.githubusercontent.com/99150991/182756238-a7509b67-f6b5-49b5-b47c-20c4b69dbbcd.png)
