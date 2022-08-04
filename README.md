@@ -10,3 +10,23 @@ This repo is for my personal website [mandeepchahal.com](https://mandeepchahal.c
 
 ## Demo
 ![portfolio](https://user-images.githubusercontent.com/99150991/182756238-a7509b67-f6b5-49b5-b47c-20c4b69dbbcd.png)
+
+## Installation
+
+1. Clone down this repository. You will need `node` and `npm` installed globally.
+
+2. Installation: `npm install`  
+
+3. Update the value for your Sanity project ID and token in the environment file. If you do not have an account you can sign up here: [sanity.io](https://www.sanity.io/).
+
+4. Setup your Sanity files and folder in the "sanity_backend" folder. Here is the link to documentation for a reference: [Sanity Documentation](https://www.sanity.io/docs/overview-introduction)
+
+5. To Start App: `npm start`  
+
+6. To Visit App: `localhost:3000`  
+
+
+
+
+
+
